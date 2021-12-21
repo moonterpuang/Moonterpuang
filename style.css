@@ -1,0 +1,73 @@
+input {font-size:inherit;}
+html {font-family:sans-serif;}
+a {color: royalblue;text-decoration: none;}
+a:hover {text-decoration:underline;}
+.status-msg-wrap,.blog-admin {display:none;}
+
+#FollowByEmail1 {border: solid 1px gainsboro;padding: 2px 2px 20px;}
+
+aside h1, aside h2, aside h3 {text-align:center;}
+
+footer a {color:black;}
+ #blog-pager-newer-link{float:right;}
+.blog-pager {text-align:center;margin: 15px 0px 5px;width: 647px;float: left;}
+#blog-pager-newer-link a, #blog-pager-older-link a {font-weight: 700;text-decoration: none;padding: 5px;background:lightgrey  ;border-radius: 10px;opacity: .5;}
+#blog-pager-newer-link a:hover, #blog-pager-older-link a:hover {background:black;opacity:1;color:white;}
+
+.PopularPosts {padding:10px;}
+.item-thumbnail,#blog-pager-older-link {float:left;}
+.item-title {margin:0px 0px 0px 90px;height:84px;}
+
+button.search {border: 0px;background: gainsboro;height: 38px;cursor:pointer;font-size:inherit;width:7.3%;}
+
+#up a{padding:0px 7px;}
+footer a:hover{opacity:0.5;}
+footer a {text-decoration:none;font-weight:700;}
+#up{padding:50px 0px 0px;}
+#down {padding:0px 0px 50px;}
+#center,#up, #down {float:left;width:1343px;text-align:center;}
+
+.fa-facebook,.fa-twitter,.fa-linkedin {color:white;padding: 15px;text-align: center;font-size: 30px;text-decoration: none;width: 60px;border-radius:50%;margin:15px 0px}
+.fa-facebook {color: #4267B2;}
+.fa-twitter {color:rgba(29,161,242,1.00);}
+.fa-linkedin {color:#007bb5;}
+
+#blog-pager, .blog-pager {display:block;padding:5px 0;}
+.showpage a, .pagenumber a, .totalpages, .current {position: relative;display: inline-block;padding: 5px 10px;margin: 0 2px;background: #ffffff;color: #333;border: 1px solid #f2f2f2;font-size: 15px;border-radius: 2px;transition: all .3s;} 
+.showpage a:hover, .pagenumber a:hover, .current {background: #333333;color: #ffffff;text-decoration:none;}
+
+.feed-links {display:none;}
+
+.popular-posts ul li a:hover {color:black;}
+.popular-posts ul li a {text-decoration: none;font-weight: 700;color:grey}
+
+.post {margin: 0px 0px 50px;border: solid 1px gainsboro;padding:10px;overflow:hidden;}
+
+a, button {transition-duration: .7s;}
+
+form.search button:hover {background: lightgrey;cursor: pointer;}
+form.search button {background:transparent;font-size: inherit;}
+form.search button:focus {outline: 0px;}
+
+nav#top a {text-decoration: none;padding: 10px;transition-duration: .5s;opacity:.7;font-weight:bold;color:white;}
+nav#top a:hover { color:black;background:white;opacity:1;}
+
+.thumbnail {border: 1px solid #ddd;border-radius: 4px;padding: 5px;height: 200px;width: 200px;margin: 30px 0px 0px;}
+.thumbnail:hover {box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);}
+
+.comments {display: block;width: 667px;border: solid 1px gainsboro;padding: 10px;}
+
+.post-title a:hover ,h1.post-title {color:black;font-weight: 700;} 
+.post-title a {text-decoration:none;color:gray;font-weight: 700;}
+
+.comment-link {text-decoration: none;color: gray;font-size:medium;}
+
+.mega {text-decoration: none;padding: 10px;background: #da3135;color: white;font-size: 15px;font-weight: bold;border-radius: 100px;}
+
+.medfir {background: rgb(0, 112, 240);text-decoration: none;padding: 10px;color: white;font-size: 15px;font-weight: bold;border-radius: 100px;}
+.fa {font-weight:bold;}
+
+header, nav , main, footer{float:left;width:1343px;}
+
+header a {float: left;padding: 20px 5px 20px 10px;text-decoration: none;font-size: 25px;color: white;}
+span.com:hover {color:black;}
